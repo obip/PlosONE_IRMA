@@ -41,5 +41,6 @@ All scripts used to compute feature representation as well as classification scr
 Scripts used to create folder struture needed for the deep learning systems can be found here.
 
 
-Due to license agreement, we are not allowed to redistribute the images of the ImageCLEF Medical Annotation Task 2009. The radiographs can be obtained from Prof. Dr. rer. nat. Dipl.-Ing. Thomas M. Deserno using this link: http://publications.rwth-aachen.de/record/667225/?ln=de.
-
+Due to license agreement, we are not allowed to redistribute the images of the ImageCLEF Medical Annotation Task 2009. 
+The radiographs can be obtained from Prof. Dr. rer. nat. Dipl.-Ing. Thomas M. Deserno using this link: http://publications.rwth-aachen.de/record/667225/?ln=de.
+Research using the dataset should state source of data, by referencing:"15,363 IRMA images of 193 categories for ImageCLEFmed 2009; Deserno, T. ; Ott, B.; 2009 DOI: 10.18154/RWTH-2016-06143 - http://dx.doi.org/10.18154/RWTH-2016-06143"
